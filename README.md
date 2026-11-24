@@ -4,7 +4,7 @@ All dotfiles for safekeep
 
 > **N.B.**
 > This repo is not meant to be cloned onto homedir.
-> This is too risky. Clone to a chosen dir and 1.ace as needed.
+> This is too risky. Clone to a chosen dir and replace as needed.
 
 ## Contents
 
